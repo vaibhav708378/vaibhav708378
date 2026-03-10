@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="left">About me</h1>
+<h1 align="left">About me:</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="left">I code with</h1>
+<h1 align="left">I code with:</h1>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h1 align="left">Connect With Me</h1>
+<h1 align="left">Connect With Me:</h1>
 
 ###
 
