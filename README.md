@@ -93,7 +93,7 @@
 
 ###
 
-<h1 align="left">Connect With Me:</h1>
+<h1 align="left">Badges:</h1>
 
 ###
 
