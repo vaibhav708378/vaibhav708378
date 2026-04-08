@@ -93,8 +93,5 @@
 
 ###
 
-<h1 align="left">Badges:</h1>
-
-###
 
 
